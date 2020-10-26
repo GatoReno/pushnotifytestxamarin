@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "218981441257",
+    "firebase_url": "https://pushnotify-151ab.firebaseio.com",
+    "project_id": "pushnotify-151ab",
+    "storage_bucket": "pushnotify-151ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218981441257:android:132b0900421ac0ab6f1a78",
+        "android_client_info": {
+          "package_name": "com.etho.nofitytest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218981441257-lhpsde7sf1jdkt56e6k0847f46ao6mgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWHWAfImymI3YqYz8No8AnlIGXfyFmfG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218981441257-lhpsde7sf1jdkt56e6k0847f46ao6mgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

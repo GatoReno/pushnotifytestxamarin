@@ -1,0 +1,14 @@
+/Users/dmn/Projects/NofityTest/NofityTest/bin/Debug/netstandard2.0/NofityTest.deps.json
+/Users/dmn/Projects/NofityTest/NofityTest/bin/Debug/netstandard2.0/NofityTest.dll
+/Users/dmn/Projects/NofityTest/NofityTest/bin/Debug/netstandard2.0/ref/NofityTest.dll
+/Users/dmn/Projects/NofityTest/NofityTest/bin/Debug/netstandard2.0/NofityTest.pdb
+/Users/dmn/Projects/NofityTest/NofityTest/obj/Debug/netstandard2.0/NofityTest.csprojAssemblyReference.cache
+/Users/dmn/Projects/NofityTest/NofityTest/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/dmn/Projects/NofityTest/NofityTest/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/dmn/Projects/NofityTest/NofityTest/obj/Debug/netstandard2.0/NofityTest.AssemblyInfoInputs.cache
+/Users/dmn/Projects/NofityTest/NofityTest/obj/Debug/netstandard2.0/NofityTest.AssemblyInfo.cs
+/Users/dmn/Projects/NofityTest/NofityTest/obj/Debug/netstandard2.0/NofityTest.csproj.CoreCompileInputs.cache
+/Users/dmn/Projects/NofityTest/NofityTest/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/dmn/Projects/NofityTest/NofityTest/obj/Debug/netstandard2.0/NofityTest.dll
+/Users/dmn/Projects/NofityTest/NofityTest/obj/Debug/netstandard2.0/ref/NofityTest.dll
+/Users/dmn/Projects/NofityTest/NofityTest/obj/Debug/netstandard2.0/NofityTest.pdb

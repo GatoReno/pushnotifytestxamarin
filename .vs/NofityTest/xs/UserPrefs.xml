@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{69823B4A-B5EB-43C4-A993-932D473CD5D8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NofityTest.Android/MainActivity.cs">
+    <Files>
+      <File FileName="NofityTest.Android/Properties/AndroidManifest.xml" />
+      <File FileName="NofityTest.Android/AndroidNotificationManager.cs" Line="1" Column="1" />
+      <File FileName="NofityTest.Android/MyFirebaseMessagingService.cs" Line="24" Column="54" />
+      <File FileName="NofityTest.Android/MainActivity.cs" Line="54" Column="62" />
+      <File FileName="../../.nuget/packages/xamarin.androidx.migration/1.0.0.1/buildTransitive/monoandroid90/Xamarin.AndroidX.Migration.targets" Line="1" Column="1" />
+      <File FileName="NofityTest.Android/google-services.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NofityTest" expanded="True">
+            <Node name="NofityTest" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+                <Node name="SdkDependencies" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="NofityTest.Android" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True" />
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NofityTest.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.ItemProperties.NofityTest.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/dmn/Projects/NofityTest/NofityTest.Android/MainActivity.cs" relfile="NofityTest.Android/MainActivity.cs" line="43" column="1" />
+      <Breakpoint file="/Users/dmn/Projects/NofityTest/NofityTest.Android/MyFirebaseMessagingService.cs" relfile="NofityTest.Android/MyFirebaseMessagingService.cs" line="25" column="1" />
+      <Breakpoint file="/Users/dmn/Projects/NofityTest/NofityTest.Android/MainActivity.cs" relfile="NofityTest.Android/MainActivity.cs" line="64" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
