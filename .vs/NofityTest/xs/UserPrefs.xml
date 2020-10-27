@@ -2,11 +2,11 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="NofityTest.Android/MainActivity.cs">
     <Files>
       <File FileName="NofityTest.Android/Properties/AndroidManifest.xml" />
-      <File FileName="NofityTest.Android/AndroidNotificationManager.cs" Line="1" Column="1" />
-      <File FileName="NofityTest.Android/MyFirebaseMessagingService.cs" Line="24" Column="54" />
-      <File FileName="NofityTest.Android/MainActivity.cs" Line="54" Column="62" />
-      <File FileName="../../.nuget/packages/xamarin.androidx.migration/1.0.0.1/buildTransitive/monoandroid90/Xamarin.AndroidX.Migration.targets" Line="1" Column="1" />
-      <File FileName="NofityTest.Android/google-services.json" Line="1" Column="1" />
+      <File FileName="NofityTest.Android/AndroidNotificationManager.cs" />
+      <File FileName="NofityTest.Android/MyFirebaseMessagingService.cs" />
+      <File FileName="NofityTest.Android/MainActivity.cs" Line="54" Column="1" />
+      <File FileName="../../.nuget/packages/xamarin.androidx.migration/1.0.0.1/buildTransitive/monoandroid90/Xamarin.AndroidX.Migration.targets" />
+      <File FileName="NofityTest.Android/google-services.json" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
